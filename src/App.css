@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+.section {
+    max-width: 1440px;
+    margin: 20px auto;
+    width: 100%;
+}
+ul {
+    list-style: none;
+    display: flex; 
+    justify-content: space-evenly;
+}
+ul li {
+    font-size: 20px;
+    cursor: pointer;
+    padding: 6px 15px;
+    border-radius: 25px;
+}
